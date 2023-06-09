@@ -19,6 +19,7 @@ Print the characters and its huffmancode.
 ## Program:
 
 ``` Python
+string ='sk.sameer Basha 212222240093'
 # Get the input String
 class NodeTree(object):
     def __init__(self, left=None, right=None): 
